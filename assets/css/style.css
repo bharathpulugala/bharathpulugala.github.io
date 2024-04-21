@@ -49,8 +49,9 @@ a:hover {
 
 /* added new */
 h1{
-  font-family: roboto !important;
+/*   font-family: roboto !important; */
   font-style: italic !important;
+   font-family: 'Times New Roman', Times, serif !important;
 }
 /* added new */
 
